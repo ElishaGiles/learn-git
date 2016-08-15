@@ -1,1 +1,3 @@
-Elisha Gabrielle Giles
+
+
+var name = "Elisha Gabrielle Giles";
