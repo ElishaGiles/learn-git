@@ -1,0 +1,2 @@
+“Hello world!” - said everyone, always"
+var words = "I can make whatever changes I want!";
