@@ -2,3 +2,4 @@
 var words = "I can make whatever changes I want!";
 
 var strings = "something";
+var name = "Elisha"
